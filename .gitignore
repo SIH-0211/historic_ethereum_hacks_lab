@@ -22,3 +22,6 @@ typechain-types/
 *.njsproj
 *.sln
 *.sw?
+
+# Logs
+logs/
