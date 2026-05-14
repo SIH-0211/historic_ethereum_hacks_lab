@@ -66,4 +66,4 @@ npm run simulate:parity2
 - **`parity1_attack.log`**: 비인가된 지갑 2개와 3개가 성공적으로 탈취당했으며, 고정된(Fixed) 지갑은 비인가된 초기화 및 실행 시도가 차단됨을 검증합니다.
 - **`parity2_freeze.log`**: 라이브러리 바이트코드가 `0 bytes`로 소멸하여 영구 동결되었음을 증명하며, 소유자 트랜잭션이 기계적으로 실패(Revert)함을 확인합니다.
 
-실행 결과 스크린샷은 `screenshots/` 폴더에 있습니다.
+실행 결과 logs의 스크린샷은 `screenshots/` 폴더에 있습니다.
